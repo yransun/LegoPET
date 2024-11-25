@@ -1,1 +1,3 @@
-# LegoPET
+# PET reconstruction
+
+Coming soon!
