@@ -1,5 +1,6 @@
 # LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction
 
+[Project Website](https://yransun.github.io/LegoPET/)
 
 This is the official pytorch implementation of the deep leraning model LegoPET for PET image reconstruction from sinograms. The paper has been accepted to ISBI 2025. The arxiv version of the paper is available [here](https://arxiv.org/abs/2411.16629).
 
