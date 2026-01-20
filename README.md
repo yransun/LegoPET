@@ -15,22 +15,16 @@ Positron emission tomography (PET) is widely utilized for cancer detection due t
 ## Citing our work
 If you find the paper useful in your research, please cite these:
 
-            @article{sun2024legopet,
-              title={LegoPET: Hierarchical Feature Guided Conditional Diffusion for PET Image Reconstruction},
-              author={Sun, Yiran and Mawlawi, Osama},
-              journal={arXiv preprint arXiv:2411.16629},
-              year={2024}
-            }
+                        @inproceedings{sun2025legopet,
+                          title={Legopet: Hierarchical feature guided conditional diffusion for pet image reconstruction},
+                          author={Sun, Yiran and Mawlawi, Osama},
+                          booktitle={2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)},
+                          pages={1--5},
+                          year={2025},
+                          organization={IEEE}
+                        }
 
 
-
-            @inproceedings{sun2024diffpet,
-              title={Diffpet: A Fine Tuned Sinogram-to-PET Conditional Diffusion Model},
-              author={Sun, Yiran and Mawlawi, Osama R},
-              booktitle={AAPM 66th Annual Meeting \& Exhibition},
-              year={2024},
-              organization={AAPM}
-            }
 
 
 
